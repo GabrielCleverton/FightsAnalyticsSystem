@@ -54,10 +54,10 @@ if __name__ == "__main__":
                 print(f"Nariz detectado em: X={lm_list[0][1]}, Y={lm_list[0][2]}")
 
             # Mostra o resultado na tela
-            cv2.imshow("Analisando movimentos:", img)
+            cv2.imshow("Analisando movimentos (Aperte s para sair):", img)
 
             #Sair do loop apertando q
-            if cv2.waitKey(1) & 0xFF == ord('q'):
+            if cv2.waitKey(1) & 0xFF == ord('s'):
                 break
 
         cap.release()

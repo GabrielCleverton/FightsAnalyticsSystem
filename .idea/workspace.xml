@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34210fb3-df89-4138-a0f8-e1f7d4666499" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FightsAnalyticsSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/analysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/analysis/fight_rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/analysis/geometry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/db_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/pose_detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/video_processor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visualization/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visualization/report_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visualization/ui_selector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/analysis/geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/analysis/geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/db_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/db_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extraction/pose_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraction/pose_detector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.db_manager.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.db_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pose_detector.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\PycharmProjects\FightsAnalyticsSystem\src\database" />
